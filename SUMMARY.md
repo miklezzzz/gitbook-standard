@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Начальная страница](README.md)
-* [Описание функционала](docs/opisanie-funkcionala.md)
+* [Описание функционала \(стандарт\)](docs/opisanie-funkcionala.md)
 
