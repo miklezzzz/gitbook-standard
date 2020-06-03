@@ -1,6 +1,8 @@
 ---
-description: 'Type: standard'
+description: 'Тип: стандарт'
 ---
 
-# Initial page
+# Начальная страница
+
+Контент
 
