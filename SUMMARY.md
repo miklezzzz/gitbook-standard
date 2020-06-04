@@ -1,11 +1,8 @@
-# Table of contents
+# Your Book Title
 
-## First group
-
-* [Начальная страница](README.md)
-  * [Описание функционала стандартной системы](docs/standard/opisanie-funkcionala-standart.md)
-
-## Second group
-
-* [Описание функционала облегченной системы](docs/opisanie-funkcionala-oblegchennoi-versii.md)
-
+- Docs
+  - Standard
+    * [Opisanie Funkcionala Standart](docs/standard/opisanie-funkcionala-standart.md)
+  * [Opisanie Funkcionala Oblegchennoi Versii](docs/opisanie-funkcionala-oblegchennoi-versii.md)
+  * [Opisanie Vozmozhnostey](docs/opisanie-vozmozhnostey.md)
+  * [Testovaya](docs/testovaya.md)
