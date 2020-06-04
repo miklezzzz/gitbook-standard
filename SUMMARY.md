@@ -3,7 +3,7 @@
 ## First group
 
 * [Начальная страница](README.md)
-  * [Описание функционала стандартной системы](docs/opisanie-funkcionala-standart.md)
+  * [Описание функционала стандартной системы](docs/standard/opisanie-funkcionala-standart.md)
 
 ## Second group
 
