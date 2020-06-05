@@ -1,15 +1,11 @@
-# Table of contents
 
-* [Introduction](README.md)
+## obshie-svedeniya
 
-## Общие-сведения
+- [Копия](obshie-svedeniya/kopiya.md)
+- [Описание функционала облегченной версии](obshie-svedeniya/opisanie-funkcionala-oblegchennoi-versii.md)
+- [Описание общей части](obshie-svedeniya/opisanie-obshei-chasti.md)
 
-* [Копия](docs/obshie-svedeniya/kopiya.md)
-* [Описание функционала облегченной версии](docs/obshie-svedeniya/opisanie-funkcionala-oblegchennoi-versii.md)
-* [Описание общей части](docs/obshie-svedeniya/opisanie-obshei-chasti.md)
+## opisanie-standartnoi-versii
 
-## Описание-стандартной-версии
-
-* [Описание функционала стандартной системы](docs/opisanie-standartnoi-versii/opisanie-funkcionala-standartnoi-sistemy.md)
-* [Описание возможностей](docs/opisanie-standartnoi-versii/opisanie-vozmozhnostei.md)
-
+- [Описание функционала стандартной системы](opisanie-standartnoi-versii/opisanie-funkcionala-standartnoi-sistemy.md)
+- [Описание возможностей](opisanie-standartnoi-versii/opisanie-vozmozhnostei.md)
