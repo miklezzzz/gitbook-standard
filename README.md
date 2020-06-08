@@ -2,7 +2,7 @@
 description: 'Тип: стандарт'
 ---
 
-# Introduction
+# Введение
 
 Контент
 
