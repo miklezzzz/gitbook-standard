@@ -15,6 +15,7 @@
 
 * [Задача](docs/biznes-processy/qed-zadacha.md)
 * [Индекс](docs/biznes-processy/qed-quick-indeks.md)
+* [Новая статья](docs/novaya-statya.md)
 
 * [Gruppy i roli](docs/gruppy-i-roli.md)
 * [Novaya statya pro chto to](docs/novaya-statya-pro-chto-to.md)
