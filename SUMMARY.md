@@ -13,9 +13,12 @@
 
 ## 2. Бизнес-процессы <a id="biznes-processy"></a>
 
-* [Задача](docs/biznes-processy/qed-zadacha.md)
+* [Задача](docs/biznes-processy/task/README.md)
+  * [Untitled](docs/biznes-processy/task/untitled.md)
 * [Индекс](docs/biznes-processy/qed-quick-indeks.md)
 * [Новая статья](docs/novaya-statya.md)
+
+* [Задача](docs/biznes-processy/qed-zadacha.md)
 
 * [Gruppy i roli](docs/gruppy-i-roli.md)
 * [Novaya statya pro chto to](docs/novaya-statya-pro-chto-to.md)
