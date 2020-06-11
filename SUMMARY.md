@@ -1,10 +1,8 @@
 # Table of contents
 
 * [Введение](README.md)
-* [Индекс](docs/1-qe-quick-indeks.md)
-* [Группы и роли](docs/gruppy-i-roli.md)
-* [Новая статья про что-то](docs/novaya-statya-pro-chto-to.md)
-* [Индекс](docs/qed-quick-indeks.md)
+* [Группы и роли](docs/1-se-gruppy-i-roli.md)
+* [Новая статья про что-то](docs/3-se-novaya-statya-pro-chto-to.md)
 
 ## 1. Общие сведения <a id="1-obshie-svedeniya"></a>
 
@@ -18,10 +16,4 @@
 ## 2. Бизнес-процессы <a id="2-biznes-processy"></a>
 
 * [Задача](docs/2-biznes-processy/1-qe-task.md)
-
-## Biznes processy
-
-## 1. Общие сведения
-
-## Obshie svedeniya
 
