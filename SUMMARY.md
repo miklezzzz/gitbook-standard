@@ -20,7 +20,7 @@
 
 * [Виды релизов](docs/2-opisanie-reliza/1-ee-vidy-relizov.md)
 
-## 2. Бизнес-процессы <a id="3-biznes-processy"></a>
+## 3. Бизнес-процессы <a id="3-biznes-processy"></a>
 
 * [Задача](docs/3-biznes-processy/1-qe-task.md)
 
