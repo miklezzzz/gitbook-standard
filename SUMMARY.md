@@ -4,6 +4,7 @@
 * [Группы и роли](docs/1-se-gruppy-i-roli.md)
 * [Новая статья про что-то](docs/3-se-novaya-statya-pro-chto-to.md)
 * [Индекс](docs/10-qe-quick-indeks.md)
+* [Исполнительская дисциплина](docs/ispolnitelskaya-disciplina.md)
 
 ## 1. Общие сведения <a id="1-obshie-svedeniya"></a>
 
