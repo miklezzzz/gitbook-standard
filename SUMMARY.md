@@ -17,5 +17,4 @@
 ## 2. Бизнес-процессы <a id="2-biznes-processy"></a>
 
 * [Задача](docs/2-biznes-processy/1-qe-task.md)
-* [Индекс](docs/2-biznes-processy/10-qe-quick-indeks.md)
 
