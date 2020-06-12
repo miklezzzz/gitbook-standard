@@ -19,8 +19,5 @@
 
 ## 3. Бизнес-процессы <a id="3-biznes-processy"></a>
 
-* [Задача](docs/3-biznes-processy/1-qe-task.md)
-* [Индекс](docs/3-biznes-processy/10-qe-quick-indeks.md)
 * [Новая статья про что-то](docs/3-biznes-processy/3-se-novaya-statya-pro-chto-to.md)
-* [Исполнительская дисциплина](docs/6-qe-ispolnitelskaya-disciplina.md)
 
