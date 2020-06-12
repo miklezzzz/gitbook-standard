@@ -24,6 +24,4 @@
 * [Индекс](docs/3-biznes-processy/10-qe-quick-indeks.md)
 * [Новая статья про что-то](docs/3-se-novaya-statya-pro-chto-to.md)
 * [Исполнительская дисциплина](docs/6-qe-ispolnitelskaya-disciplina.md)
-* [Индекс](docs/10-qe-quick-indeks.md)
-* [Исполнительская дисциплина](docs/ispolnitelskaya-disciplina.md)
 
