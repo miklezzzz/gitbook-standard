@@ -4,5 +4,5 @@
 
 Картинка тут
 
-![](.gitbook/assets/07.png)
+![](.gitbook/assets/07%20%281%29.png)
 
