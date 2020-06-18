@@ -11,7 +11,7 @@
 * [1.2 Об авторе](docs/1-obshie-svedeniya/2-qe-opisanie-obshei-chasti/README.md)
   * [1.2.1 ПРПР](docs/1-obshie-svedeniya/2-qe-opisanie-obshei-chasti/1-qe-prpr.md)
   * [1.2.2 Автор устал](docs/1-obshie-svedeniya/2-qe-opisanie-obshei-chasti/2-qe-avtor-ustal.md)
-* [Исполнительская дисциплина](docs/6-qe-ispolnitelskaya-disciplina.md)
+* [THIS IS THE TEST ARTICLE\(DOESN'T BELONG TO A GROUP\)](docs/6-qe-ispolnitelskaya-disciplina.md)
 
 ## 2. ОПИСАНИЕ РЕЛИЗА <a id="2-opisanie-reliza"></a>
 
