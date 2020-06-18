@@ -16,7 +16,6 @@
 ## 2. ОПИСАНИЕ РЕЛИЗА <a id="2-opisanie-reliza"></a>
 
 * [Виды релизов](docs/2-opisanie-reliza/1-ee-vidy-relizov.md)
-* [Тест для гуглбота](docs/2-opisanie-reliza/2-qe-test-dlya-guglbota.md)
 * [Тест для гуглбота](docs/2-opisanie-reliza/2-qe-test-dlya-guglbota-1.md)
 
 ## 3. Бизнес-процессы <a id="3-biznes-processy"></a>
